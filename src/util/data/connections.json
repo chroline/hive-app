@@ -1,0 +1,34 @@
+{
+  "figma": {
+    "title": "Figma",
+    "description": "Stay up to date with your team's latest designs."
+  },
+  "gdrive": {
+    "title": "Google Drive",
+    "description": "Access all of your documents and information."
+  },
+  "slack": {
+    "title": "Slack",
+    "description": "Communicate seamlessly with your teammates."
+  },
+  "notion": {
+    "title": "Notion",
+    "description": "Sync all of your notes, team docs, and other important information."
+  },
+  "miro": {
+    "title": "Miro",
+    "description": "Unlock the power of collaboration to distill insights from data."
+  },
+  "airtable": {
+    "title": "Airtable",
+    "description": "Keep your data organized in a spreadsheet-database format."
+  },
+  "confluence": {
+    "title": "Confluence",
+    "description": "Create content, collaborate on work, and organize and share information."
+  },
+  "dovetail": {
+    "title": "Dovetail",
+    "description": "Organize and tag your research in a collaborative platform."
+  }
+}
