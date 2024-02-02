@@ -12,4 +12,5 @@ html, body, #root {
 #root {
   overflow: hidden;
   position: relative;
+  background: radial-gradient(circle at bottom, rgb(183 29 255 / 20%), transparent) fixed;
 }

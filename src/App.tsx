@@ -4,14 +4,6 @@ import { Button } from "~/components/ui/button.tsx";
 import { Toaster } from "~/components/ui/toaster.tsx";
 import connections from "~/util/data/connections.json";
 
-const _BgShadow = () => (
-  <div
-    className={
-      "fixed left-1/2 top-2/3 z-[-1] h-[80vh] w-[80vw] -translate-x-1/2 -translate-y-1/2 bg-hive-purple/[.5] opacity-50 blur-[900px]"
-    }
-  />
-);
-
 function App() {
   return (
     <>
@@ -24,7 +16,6 @@ function App() {
           <Button>Finish</Button>
         </div>
       </main>
-      <_BgShadow />
       <Toaster />
     </>
   );
